@@ -1,0 +1,6 @@
+{
+  "name": "PromptCanvas - AI Görsel Üretici",
+  "description": "Yazdığınız istemlerden (prompt) yapay zeka ile anında çarpıcı görseller üreten, stilleri, en-boy oranlarını ve akıllı prompt geliştirmeyi destekleyen görsel stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
